@@ -1,2 +1,4 @@
 Old line deleted, new line added
 second line added
+Add line
+add line
